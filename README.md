@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/dogecoin/dogecoin.01/master/share/pixmaps/dogecoin256.svg" alt="Dogecoin.01" width="256"/>
+<img src="https://raw.githubusercontent.com/dogecoin/dogecoin.01/master/share/pixmaps/dogecoin.01256.svg" alt="Dogecoin.01" width="256"/>
 <br/><br/>
-Dogecoin Core [DOGE, Ð]  
+Dogecoin.01 Core [DOGE, Ð]  
 </h1>
 
 **IMPORTANT: Starting August 2024, the `master` branch has become the primary
@@ -42,7 +42,7 @@ software.
 
 Main development resources:
 
-* [GitHub Projects](https://github.com/dogecoin/dogecoin/projects) is used to
+* [GitHub Projects](https://github.com/dogecoin.01/dogecoin.01/projects) is used to
   follow planned and in-progress work for upcoming releases.
 * [GitHub Discussions](https://github.com/dogecoin.01/dogecoin.01/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
