@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/dogecoin/dogecoin.01/master/share/pixmaps/dogecoin.01256.svg" alt="Dogecoin.01" width="256"/>
+<img src="https://raw.githubusercontent.com/dogecoin.01/dogecoin.01/master/share/pixmaps/dogecoin.01256.svg" alt="Dogecoin.01" width="256"/>
 <br/><br/>
 Dogecoin.01 Core [DOGE, Ð]  
 </h1>
